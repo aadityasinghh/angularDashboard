@@ -1,0 +1,27 @@
+@media screen {
+}
+
+body{
+    background-color: #c2d6c5;
+    text-align: center;
+    border-collapse: collapse;
+    color: #000000;
+    padding-top: 20px;
+}
+input{
+    background-color: #e4d5d5;
+    padding: 12px;
+    margin: 5px;
+    border: white;
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-shadow: 5px 10px 5px rgb(139, 135, 135);
+}
+
+#ToDoList{
+padding: 50px;
+margin-left: 110px;
+border: none;
+text-shadow: 2px 2px 5px red;
+}
+
